@@ -1,3 +1,3 @@
 ## Zettel
 
-A platform for tailor software tools from natural language. 
+A platform for creating tailor software tools from natural language. 
